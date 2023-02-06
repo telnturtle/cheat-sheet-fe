@@ -1029,6 +1029,10 @@ Props of "div": `React.DetailedHTMLProps<React.HTMLAttributes<HTMLDivElement>, H
 
 #### [rc-progress](https://github.com/react-component/progress)
 
+#### React Query
+
+[카카오페이 프론트엔드 개발자들이 React Query를 선택한 이유 | 카카오페이 기술 블로그](https://tech.kakaopay.com/post/react-query-1/)
+
 #### React Router
 
 [reactjs - How to push to History in React Router v4? - Stack Overflow](https://stackoverflow.com/a/42716055)
