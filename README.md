@@ -670,6 +670,8 @@ parseFloat("1234567.89").toLocaleString('en')  // for string input
 
 [ESLint 설정 살펴보기](https://velog.io/@kyusung/eslint-config-2)
 
+To start a new Create React App project with TypeScript, you can run `npx create-react-app my-app --template typescript` or `yarn create react-app my-app --template typescript`
+
 #### Importing with Absolute Path
 
 VS code 설정까지 안내, .env, jsconfig.json: [https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EB%B3%80%EA%B2%BD-1485babb5198](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EB%B3%80%EA%B2%BD-1485babb5198)
