@@ -115,6 +115,8 @@ flex-grow, flex-shrink, flex-basis를 친절하게 설명해준다.
 
 [CSS 그리드 레이아웃을 지금 사용해도 정말 괜찮을까 - WebactuallyWebactually | 웹사이트를 만드는 사람들을 위한 온라인 정보](https://webactually.com/2017/11/css-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%EC%9D%84-%EC%A7%80%EA%B8%88-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%8F%84-%EC%A0%95%EB%A7%90-%EA%B4%9C%EC%B0%AE%EC%9D%84%EA%B9%8C%EC%9A%94/)
 
+[CSS Grid로 Masonry 레이아웃 만들기](https://marshallku.com/web/tips/css-grid%eb%a1%9c-masonry-%eb%a0%88%ec%9d%b4%ec%95%84%ec%9b%83-%eb%a7%8c%eb%93%a4%ea%b8%b0)
+
 #### List Item
 
 [li태그로 메뉴등을 가로로 배열하기](https://blog.outsider.ne.kr/111)
@@ -356,6 +358,7 @@ Query Strings:
 
 [웹접근성(Web Accessibility) | 웹접근성과 웹표준](https://seulbinim.github.io/WSA/accessibility.html#%EC%9B%B9%EC%A0%91%EA%B7%BC%EC%84%B1%EC%9D%98-%EA%B0%9C%EC%9A%94)
 
+[Preventing body scroll for modals in iOS – Ben Frain](https://benfrain.com/preventing-body-scroll-for-modals-in-ios/)
 
 #### Event
 [터치와 클릭, 우리 깐부잖아. | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/posts/ko_20220106)
@@ -929,6 +932,8 @@ $tpl->set_item("flag", true);
 
 [[React] 컴포넌트 렌더링 성능 최적화 Tip (Hook을 사용할 때)](https://it-eldorado.tistory.com/130)
 
+[(번역) 리액트 성능 최적화, 500ms 에서 1.7ms 까지 : 그 여정과 체크리스트 | Ykss](https://ykss.netlify.app/translation/500ms-to-1.7ms-in-react:-a-journey-and-a-checklist/)
+
 #### Component
 
 [getDerivedStateFromProps](https://reactjs.org/docs/react-component.html#static-getderivedstatefromprops): This method exists for [rare use cases](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#when-to-use-derived-state) where the state depends on changes in props over time.
@@ -942,6 +947,8 @@ $tpl->set_item("flag", true);
 [What will happen if I use setState() function in constructor of a Class in ReactJS or React Native? - Stack Overflow](https://stackoverflow.com/questions/34961853/what-will-happen-if-i-use-setstate-function-in-constructor-of-a-class-in-react)
 
 [javascript - ReactJS - Warning: A component is changing an uncontrolled input of type text to be controlled - Stack Overflow](https://stackoverflow.com/questions/51406927/reactjs-warning-a-component-is-changing-an-uncontrolled-input-of-type-text-to)
+
+[프론트엔드 아키텍처: 컴포넌트를 분리하는 기준과 방법. 컴포넌트를 언제 분리해야 하고 어떻게 분리해야 하는지 살펴봅니다. | by 이문기 | Feb, 2023 | Medium](https://medium.com/@shinbaek89/프론트엔드-아키텍처-컴포넌트를-분리하는-기준과-방법-e7cf16bb157a)
 
 #### Context
 
