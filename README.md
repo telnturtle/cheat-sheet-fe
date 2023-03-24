@@ -111,6 +111,12 @@ flex-grow, flex-shrink, flex-basis를 친절하게 설명해준다.
 
 [CSS에 대한 깊은 이해: 폰트 매트릭스, line-height와 vertical-align | WIT블로그](https://wit.nts-corp.com/2017/09/25/4903#CSS%EC%97%90%EB%8C%80%ED%95%9C%EA%B9%8A%EC%9D%80%EC%9D%B4%ED%95%B4:%ED%8F%B0%ED%8A%B8%EB%A7%A4%ED%8A%B8%EB%A6%AD%EC%8A%A4,line-height%EC%99%80vertical-align-body4)
 
+[The Simplest Way to Load CSS Asynchronously | Filament Group, Inc.](https://www.filamentgroup.com/lab/load-css-simpler)
+
+2가지 방법, `rel="preload"`와 `media="print"`가 있으며, preload의 우선순위는 높고 media=print의 우선순위는 낮으므로, 둘의 차이점을 알아보자.
+
+Async `<link>`가 언젠가 생기길 바란다.
+
 #### Grid
 
 [CSS 그리드 레이아웃을 지금 사용해도 정말 괜찮을까 - WebactuallyWebactually | 웹사이트를 만드는 사람들을 위한 온라인 정보](https://webactually.com/2017/11/css-%EA%B7%B8%EB%A6%AC%EB%93%9C-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%EC%9D%84-%EC%A7%80%EA%B8%88-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%8F%84-%EC%A0%95%EB%A7%90-%EA%B4%9C%EC%B0%AE%EC%9D%84%EA%B9%8C%EC%9A%94/)
