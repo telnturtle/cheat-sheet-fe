@@ -45,7 +45,7 @@
 
 [개발자 취업 준비 가이드](https://www.notion.so/0ddf7f0cff844d559a26ae7b6425c35e)
 
-[HTML 질문 | Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/kr/html-questions)
+[Front End Interview Handbook](https://www.frontendinterviewhandbook.com/kr/trivia/)
 
 ### Computer Architecture
 
